@@ -249,7 +249,7 @@
   "prefabricated.gui.farm.advanced.produce": "农舍",
   "prefabricated.gui.farm.advanced.tree": "林场",
 
-  "prefabricated.gui.bulldozer_desc": "此物品将清空 16x16x16 的区域，并将原方块变为掉落物。",
+  "prefabricated.gui.bulldozer_desc": "此物品将清空16x16x16的区域，并将原方块变为掉落物。",
   "prefabricated.gui.compressed_chest_desc": "用于结构配方，不用于直接存储",
   "prefabricated.gui.sickle_desc": "轻松剪草、剪花和剪树叶！",
 
