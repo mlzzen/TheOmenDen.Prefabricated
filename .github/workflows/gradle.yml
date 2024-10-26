@@ -28,10 +28,10 @@ jobs:
       - name: 'MC Publish'
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          modrinth-id: McLbj2dz
-          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          modrinth-featured: true
-          curseforge-id: 960132
-          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+          # modrinth-id: McLbj2dz
+          # modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          # modrinth-featured: true
+          # curseforge-id: 960132
+          # curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
           github-generate-changelog: true
           github-token: ${{ secrets.GITHUB_TOKEN }}
